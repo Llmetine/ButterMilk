@@ -19,5 +19,6 @@ else if(rank=='D'){
 cout << a[4] ;}
 
 return 0;
+//dsa
 }
 
