@@ -17,6 +17,7 @@ else if(rank=='C'){
 cout << a[3] << a[4] ;}
 else if(rank=='D'){
 cout << a[4] ;}
+
 return 0;
 }
 
